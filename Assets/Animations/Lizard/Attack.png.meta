@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 8bbc1b41fd9594a01a55c83da93906b4
+timeCreated: 1462956769
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_deimaginator__x1_talk_png_1354836032_0
+    21300002: npc_deimaginator__x1_talk_png_1354836032_1
+    21300004: npc_deimaginator__x1_talk_png_1354836032_2
+    21300006: npc_deimaginator__x1_talk_png_1354836032_3
+    21300008: npc_deimaginator__x1_talk_png_1354836032_4
+    21300010: npc_deimaginator__x1_talk_png_1354836032_5
+    21300012: npc_deimaginator__x1_talk_png_1354836032_6
+    21300014: npc_deimaginator__x1_talk_png_1354836032_7
+    21300016: npc_deimaginator__x1_talk_png_1354836032_8
+    21300018: npc_deimaginator__x1_talk_png_1354836032_9
+    21300020: npc_deimaginator__x1_talk_png_1354836032_10
+    21300022: npc_deimaginator__x1_talk_png_1354836032_11
+    21300024: npc_deimaginator__x1_talk_png_1354836032_12
+    21300026: npc_deimaginator__x1_talk_png_1354836032_13
+    21300028: npc_deimaginator__x1_talk_png_1354836032_14
+    21300030: npc_deimaginator__x1_talk_png_1354836032_15
+    21300032: npc_deimaginator__x1_talk_png_1354836032_16
+    21300034: npc_deimaginator__x1_talk_png_1354836032_17
+    21300036: npc_deimaginator__x1_talk_png_1354836032_18
+    21300038: npc_deimaginator__x1_talk_png_1354836032_19
+    21300040: npc_deimaginator__x1_talk_png_1354836032_20
+    21300042: npc_deimaginator__x1_talk_png_1354836032_21
+    21300044: npc_deimaginator__x1_talk_png_1354836032_22
+    21300046: npc_deimaginator__x1_talk_png_1354836032_23
+    21300048: npc_deimaginator__x1_talk_png_1354836032_24
+    21300050: npc_deimaginator__x1_talk_png_1354836032_25
+    21300052: npc_deimaginator__x1_talk_png_1354836032_26
+    21300054: npc_deimaginator__x1_talk_png_1354836032_27
+    21300056: npc_deimaginator__x1_talk_png_1354836032_28
+    21300058: npc_deimaginator__x1_talk_png_1354836032_29
+    21300060: npc_deimaginator__x1_talk_png_1354836032_30
+    21300062: npc_deimaginator__x1_talk_png_1354836032_31
+    21300064: npc_deimaginator__x1_talk_png_1354836032_32
+    21300066: npc_deimaginator__x1_talk_png_1354836032_33
+    21300068: npc_deimaginator__x1_talk_png_1354836032_34
+    21300070: npc_deimaginator__x1_talk_png_1354836032_35
+    21300072: npc_deimaginator__x1_talk_png_1354836032_36
+    21300074: npc_deimaginator__x1_talk_png_1354836032_37
+    21300076: npc_deimaginator__x1_talk_png_1354836032_38
+    21300078: npc_deimaginator__x1_talk_png_1354836032_39
+    21300080: npc_deimaginator__x1_talk_png_1354836032_40
+    21300082: npc_deimaginator__x1_talk_png_1354836032_41
+    21300084: npc_deimaginator__x1_talk_png_1354836032_42
+    21300086: npc_deimaginator__x1_talk_png_1354836032_43
+    21300088: npc_deimaginator__x1_talk_png_1354836032_44
+    21300090: npc_deimaginator__x1_talk_png_1354836032_45
+    21300092: npc_deimaginator__x1_talk_png_1354836032_46
+    21300094: npc_deimaginator__x1_talk_png_1354836032_47
+    21300096: npc_deimaginator__x1_talk_png_1354836032_48
+    21300098: npc_deimaginator__x1_talk_png_1354836032_49
+    21300100: npc_deimaginator__x1_talk_png_1354836032_50
+    21300102: npc_deimaginator__x1_talk_png_1354836032_51
+    21300104: npc_deimaginator__x1_talk_png_1354836032_52
+    21300106: npc_deimaginator__x1_talk_png_1354836032_53
+    21300108: npc_deimaginator__x1_talk_png_1354836032_54
+    21300110: npc_deimaginator__x1_talk_png_1354836032_55
+    21300112: npc_deimaginator__x1_talk_png_1354836032_56
+    21300114: npc_deimaginator__x1_talk_png_1354836032_57
+    21300116: npc_deimaginator__x1_talk_png_1354836032_58
+    21300118: npc_deimaginator__x1_talk_png_1354836032_59
+    21300120: npc_deimaginator__x1_talk_png_1354836032_60
+    21300122: npc_deimaginator__x1_talk_png_1354836032_61
+    21300124: npc_deimaginator__x1_talk_png_1354836032_62
+    21300126: npc_deimaginator__x1_talk_png_1354836032_63
+    21300128: npc_deimaginator__x1_talk_png_1354836032_64
+    21300130: npc_deimaginator__x1_talk_png_1354836032_65
+    21300132: npc_deimaginator__x1_talk_png_1354836032_66
+    21300134: npc_deimaginator__x1_talk_png_1354836032_67
+    21300136: npc_deimaginator__x1_talk_png_1354836032_68
+    21300138: npc_deimaginator__x1_talk_png_1354836032_69
+    21300140: npc_deimaginator__x1_talk_png_1354836032_70
+    21300142: npc_deimaginator__x1_talk_png_1354836032_71
+    21300144: npc_deimaginator__x1_talk_png_1354836032_72
+    21300146: npc_deimaginator__x1_talk_png_1354836032_73
+    21300148: npc_deimaginator__x1_talk_png_1354836032_74
+    21300150: npc_deimaginator__x1_talk_png_1354836032_75
+    21300152: npc_deimaginator__x1_talk_png_1354836032_76
+    21300154: npc_deimaginator__x1_talk_png_1354836032_77
+    21300156: npc_deimaginator__x1_talk_png_1354836032_78
+    21300158: npc_deimaginator__x1_talk_png_1354836032_79
+    21300160: npc_deimaginator__x1_talk_png_1354836032_80
+    21300162: npc_deimaginator__x1_talk_png_1354836032_81
+    21300164: npc_deimaginator__x1_talk_png_1354836032_82
+    21300166: npc_deimaginator__x1_talk_png_1354836032_83
+    21300168: npc_deimaginator__x1_talk_png_1354836032_84
+    21300170: npc_deimaginator__x1_talk_png_1354836032_85
+    21300172: npc_deimaginator__x1_talk_png_1354836032_86
+    21300174: npc_deimaginator__x1_talk_png_1354836032_87
+    21300176: npc_deimaginator__x1_talk_png_1354836032_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_deimaginator__x1_talk_png_1354836032_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -30}
+        - {x: -76.5, y: -70}
+        - {x: -66.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -42}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -39}
+        - {x: -76.5, y: -71}
+        - {x: -68.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -32}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 17}
+        - {x: -76.5, y: 16}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -27}
+        - {x: -77.5, y: -72}
+        - {x: -66.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -42}
+        - {x: -48.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -80.5, y: 16}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -66}
+        - {x: -74.5, y: -68}
+        - {x: -61.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -62}
+        - {x: -6.5, y: -48}
+        - {x: -46.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 17}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -27}
+        - {x: -77.5, y: -72}
+        - {x: -73.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -31}
+        - {x: -28.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -50}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: 0}
+        - {x: -39.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -41.5, y: 9}
+        - {x: -48.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -89.5, y: -8}
+        - {x: -89.5, y: -38}
+        - {x: -76.5, y: -71}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 17}
+        - {x: -90.5, y: 12}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -71}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -20}
+        - {x: -19.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -74.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -63}
+        - {x: -88.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -6}
+        - {x: -89.5, y: -20}
+        - {x: -77.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -5}
+        - {x: -89.5, y: -21}
+        - {x: -77.5, y: -72}
+        - {x: -70.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -1}
+        - {x: -89.5, y: -34}
+        - {x: -79.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 17}
+        - {x: -78.5, y: 17}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -59}
+        - {x: -6.5, y: -51}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -90.5, y: -7}
+        - {x: -90.5, y: -19}
+        - {x: -76.5, y: -70}
+        - {x: -65.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -49}
+        - {x: -7.5, y: -47}
+    - name: npc_deimaginator__x1_talk_png_1354836032_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -80.5, y: 17}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -67}
+        - {x: -60.5, y: -73}
+        - {x: -18.5, y: -73}
+        - {x: -6.5, y: -70}
+        - {x: -6.5, y: -38}
+        - {x: -37.5, y: 15}
+    - name: npc_deimaginator__x1_talk_png_1354836032_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 18}
+        - {x: -87.5, y: 18}
+        - {x: -90.5, y: 13}
+        - {x: -90.5, y: -46}
+        - {x: -73.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -43}
+        - {x: -31.5, y: 12}
+    - name: npc_deimaginator__x1_talk_png_1354836032_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: 18}
+        - {x: -91.5, y: -2}
+        - {x: -91.5, y: -66}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -18}
+        - {x: -35.5, y: 18}
+    - name: npc_deimaginator__x1_talk_png_1354836032_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 18}
+        - {x: -91.5, y: 15}
+        - {x: -91.5, y: -60}
+        - {x: -88.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -46}
+        - {x: -40.5, y: 18}
+    - name: npc_deimaginator__x1_talk_png_1354836032_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -46}
+        - {x: -81.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -43}
+        - {x: -29.5, y: 18}
+        - {x: -73.5, y: 18}
+        - {x: -91.5, y: 5}
+    - name: npc_deimaginator__x1_talk_png_1354836032_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 18}
+        - {x: -91.5, y: -7}
+        - {x: -91.5, y: -48}
+        - {x: -75.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -46}
+        - {x: -43.5, y: 18}
+    - name: npc_deimaginator__x1_talk_png_1354836032_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: -56}
+        - {x: -70.5, y: -73}
+        - {x: -21.5, y: -73}
+        - {x: -6.5, y: -70}
+        - {x: -6.5, y: -30}
+        - {x: -26.5, y: 16}
+        - {x: -34.5, y: 18}
+        - {x: -84.5, y: 18}
+        - {x: -90.5, y: 4}
+    - name: npc_deimaginator__x1_talk_png_1354836032_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -80.5, y: 17}
+        - {x: -90.5, y: 6}
+        - {x: -90.5, y: -44}
+        - {x: -83.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -69}
+        - {x: -6.5, y: -39}
+        - {x: -37.5, y: 15}
+    - name: npc_deimaginator__x1_talk_png_1354836032_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -43}
+        - {x: -81.5, y: -73}
+        - {x: -16.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: 3}
+        - {x: -28.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: 17}
+        - {x: -88.5, y: -5}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -36}
+        - {x: -79.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -34}
+        - {x: -32.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 17}
+        - {x: -89.5, y: 0}
+        - {x: -89.5, y: -39}
+        - {x: -83.5, y: -63}
+        - {x: -75.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -26.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -47}
+        - {x: -46.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -20}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -89.5, y: 7}
+        - {x: -89.5, y: -63}
+        - {x: -78.5, y: -73}
+        - {x: -14.5, y: -73}
+        - {x: -6.5, y: -59}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -82.5, y: 17}
+        - {x: -89.5, y: 4}
+        - {x: -89.5, y: -67}
+        - {x: -79.5, y: -73}
+        - {x: -14.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -47}
+        - {x: -39.5, y: 7}
+    - name: npc_deimaginator__x1_talk_png_1354836032_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -17}
+        - {x: -80.5, y: -26}
+        - {x: -84.5, y: -35}
+        - {x: -76.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -25}
+        - {x: -79.5, y: -68}
+        - {x: -63.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -40}
+        - {x: -42.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -88.5, y: -6}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -38}
+        - {x: -80.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -36}
+        - {x: -32.5, y: 14}
+    - name: npc_deimaginator__x1_talk_png_1354836032_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -9}
+        - {x: -46.5, y: 17}
+        - {x: -90.5, y: 17}
+        - {x: -90.5, y: -22}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: npc_deimaginator__x1_talk_png_1354836032_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -35}
+        - {x: -75.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -61}
+        - {x: -6.5, y: -48}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 17}
+        - {x: -78.5, y: 16}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -30}
+        - {x: -79.5, y: -68}
+        - {x: -59.5, y: -73}
+        - {x: -36.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -73}
+        - {x: -20.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -35}
+        - {x: -31.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 9}
+        - {x: -48.5, y: 17}
+        - {x: -65.5, y: 17}
+        - {x: -75.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -34}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: npc_deimaginator__x1_talk_png_1354836032_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -30}
+        - {x: -76.5, y: -70}
+        - {x: -66.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -42}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -39}
+        - {x: -76.5, y: -71}
+        - {x: -68.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -32}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -33}
+        - {x: -75.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+    - name: npc_deimaginator__x1_talk_png_1354836032_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -76.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -28.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -43}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -40}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -33}
+        - {x: -75.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+    - name: npc_deimaginator__x1_talk_png_1354836032_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -27}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -27}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -90.5, y: -7}
+        - {x: -90.5, y: -47}
+        - {x: -77.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 17}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -73}
+        - {x: -16.5, y: -73}
+        - {x: -6.5, y: -67}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -26}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -76.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -28.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -43}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -40}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: npc_deimaginator__x1_talk_png_1354836032_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: npc_deimaginator__x1_talk_png_1354836032_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: npc_deimaginator__x1_talk_png_1354836032_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

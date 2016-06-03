@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 51431069dd8f5420488ebbd1ec90a4f8
+timeCreated: 1464813408
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Black Bunny_0
+    21300002: PC Computer - MapleStory - Black Bunny_1
+    21300004: PC Computer - MapleStory - Black Bunny_2
+    21300006: PC Computer - MapleStory - Black Bunny_3
+    21300008: PC Computer - MapleStory - Black Bunny_4
+    21300010: PC Computer - MapleStory - Black Bunny_5
+    21300012: PC Computer - MapleStory - Black Bunny_6
+    21300014: PC Computer - MapleStory - Black Bunny_7
+    21300016: PC Computer - MapleStory - Black Bunny_8
+    21300018: PC Computer - MapleStory - Black Bunny_9
+    21300020: PC Computer - MapleStory - Black Bunny_10
+    21300022: PC Computer - MapleStory - Black Bunny_11
+    21300024: PC Computer - MapleStory - Black Bunny_12
+    21300026: PC Computer - MapleStory - Black Bunny_13
+    21300028: PC Computer - MapleStory - Black Bunny_14
+    21300030: PC Computer - MapleStory - Black Bunny_15
+    21300032: PC Computer - MapleStory - Black Bunny_16
+    21300034: PC Computer - MapleStory - Black Bunny_17
+    21300036: PC Computer - MapleStory - Black Bunny_18
+    21300038: PC Computer - MapleStory - Black Bunny_19
+    21300040: PC Computer - MapleStory - Black Bunny_20
+    21300042: PC Computer - MapleStory - Black Bunny_21
+    21300044: PC Computer - MapleStory - Black Bunny_22
+    21300046: PC Computer - MapleStory - Black Bunny_23
+    21300048: PC Computer - MapleStory - Black Bunny_24
+    21300050: PC Computer - MapleStory - Black Bunny_25
+    21300052: PC Computer - MapleStory - Black Bunny_26
+    21300054: PC Computer - MapleStory - Black Bunny_27
+    21300056: PC Computer - MapleStory - Black Bunny_28
+    21300058: PC Computer - MapleStory - Black Bunny_29
+    21300060: PC Computer - MapleStory - Black Bunny_30
+    21300062: PC Computer - MapleStory - Black Bunny_31
+    21300064: PC Computer - MapleStory - Black Bunny_32
+    21300066: PC Computer - MapleStory - Black Bunny_33
+    21300068: PC Computer - MapleStory - Black Bunny_34
+    21300070: PC Computer - MapleStory - Black Bunny_35
+    21300072: PC Computer - MapleStory - Black Bunny_36
+    21300074: PC Computer - MapleStory - Black Bunny_37
+    21300076: PC Computer - MapleStory - Black Bunny_38
+    21300078: PC Computer - MapleStory - Black Bunny_39
+    21300080: PC Computer - MapleStory - Black Bunny_40
+    21300082: PC Computer - MapleStory - Black Bunny_41
+    21300084: PC Computer - MapleStory - Black Bunny_42
+    21300086: PC Computer - MapleStory - Black Bunny_43
+    21300088: PC Computer - MapleStory - Black Bunny_44
+    21300090: PC Computer - MapleStory - Black Bunny_45
+    21300092: PC Computer - MapleStory - Black Bunny_46
+    21300094: PC Computer - MapleStory - Black Bunny_47
+    21300096: PC Computer - MapleStory - Black Bunny_48
+    21300098: PC Computer - MapleStory - Black Bunny_49
+    21300100: PC Computer - MapleStory - Black Bunny_50
+    21300102: PC Computer - MapleStory - Black Bunny_51
+    21300104: PC Computer - MapleStory - Black Bunny_52
+    21300106: PC Computer - MapleStory - Black Bunny_53
+    21300108: PC Computer - MapleStory - Black Bunny_54
+    21300110: PC Computer - MapleStory - Black Bunny_55
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - MapleStory - Black Bunny_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1009
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20.5}
+        - {x: -10, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -9, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1009
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20.5}
+        - {x: -10, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -9, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1009
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20.5}
+        - {x: -10, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -9, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 961
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20.5}
+        - {x: -10, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -9, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 961
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -13}
+        - {x: -10, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: -1}
+        - {x: 15, y: 14}
+        - {x: 0, y: 21}
+        - {x: -10, y: 21}
+        - {x: -20, y: 7}
+    - name: PC Computer - MapleStory - Black Bunny_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 961
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 21}
+        - {x: -14, y: 21}
+        - {x: -17, y: 20}
+        - {x: -20, y: 12}
+        - {x: -20, y: -18}
+        - {x: -9, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: -7}
+        - {x: 12, y: 13}
+    - name: PC Computer - MapleStory - Black Bunny_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 905
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 23.5}
+        - {x: -16, y: 10.5}
+        - {x: -16, y: -12.5}
+        - {x: -10, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 16, y: 15.5}
+        - {x: 15, y: 23.5}
+    - name: PC Computer - MapleStory - Black Bunny_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 857
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19.5}
+        - {x: -10, y: 19.5}
+        - {x: -20, y: 5.5}
+        - {x: -20, y: -14.5}
+        - {x: -13, y: -19.5}
+        - {x: 20, y: -19.5}
+        - {x: 20, y: -3.5}
+        - {x: 12, y: 16.5}
+    - name: PC Computer - MapleStory - Black Bunny_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 857
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -18, y: 15}
+        - {x: -20, y: 7}
+        - {x: -20, y: -17}
+        - {x: -14, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 20}
+    - name: PC Computer - MapleStory - Black Bunny_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 857
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 20}
+        - {x: -15, y: 20}
+        - {x: -20, y: 12}
+        - {x: -20, y: -15}
+        - {x: -17, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: -3}
+        - {x: 13, y: 12}
+    - name: PC Computer - MapleStory - Black Bunny_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 809
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16}
+        - {x: -21.5, y: -14}
+        - {x: -19.5, y: -16}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 9}
+        - {x: 5.5, y: 16}
+    - name: PC Computer - MapleStory - Black Bunny_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 809
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16}
+        - {x: -21.5, y: -14}
+        - {x: -19.5, y: -16}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 9}
+        - {x: 5.5, y: 16}
+    - name: PC Computer - MapleStory - Black Bunny_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 809
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16}
+        - {x: -21.5, y: -14}
+        - {x: -19.5, y: -16}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 9}
+        - {x: 5.5, y: 16}
+    - name: PC Computer - MapleStory - Black Bunny_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 761
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 17}
+        - {x: -23.5, y: 11}
+        - {x: -23.5, y: -12}
+        - {x: -17.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: -5}
+        - {x: 0.5, y: 17}
+    - name: PC Computer - MapleStory - Black Bunny_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 761
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 17}
+        - {x: -23.5, y: 11}
+        - {x: -23.5, y: -12}
+        - {x: -17.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: -5}
+        - {x: 0.5, y: 17}
+    - name: PC Computer - MapleStory - Black Bunny_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 761
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 17}
+        - {x: -23.5, y: 11}
+        - {x: -23.5, y: -12}
+        - {x: -17.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: -5}
+        - {x: 0.5, y: 17}
+    - name: PC Computer - MapleStory - Black Bunny_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 714
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20.5}
+        - {x: -20, y: 4.5}
+        - {x: -20, y: -15.5}
+        - {x: -8, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 7.5}
+        - {x: 16, y: 20.5}
+    - name: PC Computer - MapleStory - Black Bunny_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 713
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21}
+        - {x: -20, y: 8}
+        - {x: -20, y: -12}
+        - {x: -8, y: -21}
+        - {x: 20, y: -21}
+        - {x: 20, y: 21}
+    - name: PC Computer - MapleStory - Black Bunny_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 713
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -20, y: 8}
+        - {x: -20, y: -11}
+        - {x: -16, y: -14}
+        - {x: -4, y: -21}
+        - {x: 15, y: -21}
+        - {x: 20, y: -20}
+        - {x: 20, y: 2}
+        - {x: 16, y: 21}
+    - name: PC Computer - MapleStory - Black Bunny_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 713
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20.5}
+        - {x: -22.5, y: 9.5}
+        - {x: -22.5, y: -12.5}
+        - {x: -9.5, y: -20.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 22.5, y: 11.5}
+        - {x: 8.5, y: 20.5}
+    - name: PC Computer - MapleStory - Black Bunny_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 665
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20.5}
+        - {x: -22.5, y: 9.5}
+        - {x: -22.5, y: -12.5}
+        - {x: -9.5, y: -20.5}
+        - {x: 22.5, y: -20.5}
+        - {x: 22.5, y: 11.5}
+        - {x: 8.5, y: 20.5}
+    - name: PC Computer - MapleStory - Black Bunny_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 617
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -20, y: 16}
+        - {x: -20, y: -15}
+        - {x: -19, y: -18}
+        - {x: 20, y: -18}
+        - {x: 20, y: -5}
+        - {x: 2, y: 18}
+    - name: PC Computer - MapleStory - Black Bunny_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 561
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 24}
+        - {x: -16.5, y: 9}
+        - {x: -16.5, y: -17}
+        - {x: -10.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 16.5, y: 15}
+        - {x: 15.5, y: 24}
+    - name: PC Computer - MapleStory - Black Bunny_23
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 504
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 452
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 20}
+        - {x: -11.5, y: 20}
+        - {x: -22.5, y: 7}
+        - {x: -22.5, y: -14}
+        - {x: -15.5, y: -20}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: -7}
+        - {x: 16.5, y: 2}
+    - name: PC Computer - MapleStory - Black Bunny_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 452
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21.5}
+        - {x: -20, y: 5.5}
+        - {x: -20, y: -11.5}
+        - {x: -4, y: -21.5}
+        - {x: 20, y: -21.5}
+        - {x: 20, y: 17.5}
+        - {x: 19, y: 21.5}
+    - name: PC Computer - MapleStory - Black Bunny_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 403
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 7.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -14.5, y: -20.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 14.5}
+        - {x: 18.5, y: 20.5}
+        - {x: -11.5, y: 20.5}
+        - {x: -17.5, y: 15.5}
+    - name: PC Computer - MapleStory - Black Bunny_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 403
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 353
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20.5}
+        - {x: -10, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -9, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -12}
+        - {x: -13.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: -4}
+        - {x: 14.5, y: 15}
+        - {x: 10.5, y: 20}
+        - {x: -8.5, y: 20}
+        - {x: -20.5, y: 12}
+    - name: PC Computer - MapleStory - Black Bunny_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 353
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -12.5}
+        - {x: -15.5, y: -19.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 18.5, y: 18.5}
+        - {x: 13.5, y: 19.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -20.5, y: 11.5}
+    - name: PC Computer - MapleStory - Black Bunny_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 306
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 18}
+        - {x: -20, y: -18}
+        - {x: 20, y: -18}
+        - {x: 20, y: -4}
+        - {x: 7, y: 18}
+    - name: PC Computer - MapleStory - Black Bunny_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 250
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 250
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 247
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 25}
+        - {x: -16, y: 20}
+        - {x: -16, y: -25}
+        - {x: 16, y: -25}
+        - {x: 16, y: 25}
+    - name: PC Computer - MapleStory - Black Bunny_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20.5}
+        - {x: -11, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -12, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 190
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20.5}
+        - {x: -11, y: 20.5}
+        - {x: -20, y: 6.5}
+        - {x: -20, y: -17.5}
+        - {x: -12, y: -20.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 19.5}
+    - name: PC Computer - MapleStory - Black Bunny_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 138
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21.5}
+        - {x: -21, y: 5.5}
+        - {x: -21, y: -16.5}
+        - {x: -12, y: -21.5}
+        - {x: 21, y: -21.5}
+        - {x: 21, y: 8.5}
+        - {x: 13, y: 21.5}
+    - name: PC Computer - MapleStory - Black Bunny_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 138
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21.5}
+        - {x: -21, y: 5.5}
+        - {x: -21, y: -16.5}
+        - {x: -12, y: -21.5}
+        - {x: 21, y: -21.5}
+        - {x: 21, y: 8.5}
+        - {x: 13, y: 21.5}
+    - name: PC Computer - MapleStory - Black Bunny_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 88
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 91
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 91
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 40
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 40
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 43
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 24}
+        - {x: -24, y: 23}
+        - {x: -24, y: -23}
+        - {x: -19, y: -24}
+        - {x: 14, y: -24}
+        - {x: 24, y: -17}
+        - {x: 24, y: 22}
+        - {x: 20, y: 24}
+    - name: PC Computer - MapleStory - Black Bunny_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 24
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 24
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 24
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 24
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - MapleStory - Black Bunny_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
