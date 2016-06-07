@@ -24,6 +24,7 @@ public class Health : MonoBehaviour {
 	}
 
 	void DestroyObject(){
+		Debug.Log("destroy");
 		Destroy(this.gameObject);
 	}
 

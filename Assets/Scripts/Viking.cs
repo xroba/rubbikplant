@@ -22,10 +22,7 @@ public class Viking : MonoBehaviour {
 		if(!collider.gameObject.GetComponent<Defender>()){
 			return;
 		}
-
 			animatorCtrl.SetBool("isAttacking", true);
 			attackerScript.Attack(collider.gameObject);
-		
-
 	}
 }

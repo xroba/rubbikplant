@@ -42,10 +42,13 @@ public class Attacker : MonoBehaviour {
 	public void StrikeCurrentTarget (float dmg)
 	{
 		if(currentTarget){
-			Health health = currentTarget.GetComponent<Health>();
 
-			if(health){
-				health.DealDamage(dmg);
+			Debug.Log("CurrentTarget = " + currentTarget);
+
+			Health defenderHealth = currentTarget.GetComponent<Health>();
+
+			if(defenderHealth){
+				defenderHealth.DealDamage(dmg);
 			}
 
 		}
