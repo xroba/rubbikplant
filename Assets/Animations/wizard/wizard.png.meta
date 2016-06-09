@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: 93b1502a9f060c848825e52d41189706
+timeCreated: 1465414237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wizard_0
+    21300002: wizard_1
+    21300004: wizard_2
+    21300006: wizard_3
+    21300008: wizard_4
+    21300010: wizard_5
+    21300012: wizard_6
+    21300014: wizard_7
+    21300016: wizard_8
+    21300018: wizard_9
+    21300020: wizard_10
+    21300022: wizard_11
+    21300024: wizard_12
+    21300026: wizard_13
+    21300028: wizard_14
+    21300030: wizard_15
+    21300032: wizard_16
+    21300034: wizard_17
+    21300036: wizard_18
+    21300038: wizard_19
+    21300040: wizard_20
+    21300042: wizard_21
+    21300044: wizard_22
+    21300046: wizard_23
+    21300048: wizard_24
+    21300050: wizard_25
+    21300052: wizard_26
+    21300054: wizard_27
+    21300056: wizard_28
+    21300058: wizard_29
+    21300060: wizard_30
+    21300062: wizard_31
+    21300064: wizard_32
+    21300066: wizard_33
+    21300068: wizard_34
+    21300070: wizard_35
+    21300072: wizard_36
+    21300074: wizard_37
+    21300076: wizard_38
+    21300078: wizard_39
+    21300080: wizard_40
+    21300082: wizard_41
+    21300084: wizard_42
+    21300086: wizard_43
+    21300088: wizard_44
+    21300090: wizard_45
+    21300092: wizard_46
+    21300094: wizard_47
+    21300096: wizard_48
+    21300098: wizard_49
+    21300100: wizard_50
+    21300102: wizard_51
+    21300104: wizard_52
+    21300106: wizard_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wizard_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 614
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 614
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 614
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 614
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 614
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 614
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 614
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 614
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 614
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 614
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 614
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 617
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 614
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 614
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 614
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 614
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 614
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16.5}
+        - {x: -16, y: 11.5}
+        - {x: -16, y: -12.5}
+        - {x: -12, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 10.5}
+        - {x: 8, y: 16.5}
+    - name: wizard_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 614
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_18
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 614
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_19
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 614
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_20
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 614
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 614
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_22
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 614
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 614
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_24
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 614
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 7.5}
+        - {x: 10, y: 16.5}
+      - - {x: 12, y: 14.5}
+        - {x: 10, y: 12.5}
+        - {x: 10, y: 10.5}
+        - {x: 12, y: 8.5}
+        - {x: 14, y: 8.5}
+        - {x: 16, y: 10.5}
+        - {x: 16, y: 12.5}
+        - {x: 14, y: 14.5}
+      - - {x: -16, y: 16.5}
+        - {x: -16, y: 12.5}
+        - {x: -14, y: 12.5}
+        - {x: -12, y: 14.5}
+        - {x: -12, y: 16.5}
+    - name: wizard_25
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 614
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_26
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 614
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 577
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 577
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 577
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 577
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 577
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 577
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 577
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_37
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 580
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 577
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 577
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 577
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 577
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 577
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_45
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 577
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_47
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 577
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_48
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 577
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_49
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 577
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_50
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 577
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_51
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 577
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -16, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 6.5}
+        - {x: 6, y: 16.5}
+      - - {x: 12, y: 14.5}
+        - {x: 10, y: 12.5}
+        - {x: 10, y: 10.5}
+        - {x: 12, y: 8.5}
+        - {x: 14, y: 8.5}
+        - {x: 16, y: 10.5}
+        - {x: 16, y: 12.5}
+        - {x: 14, y: 14.5}
+      - - {x: -16, y: 16.5}
+        - {x: -16, y: 12.5}
+        - {x: -14, y: 12.5}
+        - {x: -12, y: 14.5}
+        - {x: -12, y: 16.5}
+    - name: wizard_52
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 577
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wizard_53
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 577
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
