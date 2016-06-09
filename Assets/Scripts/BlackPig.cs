@@ -14,8 +14,8 @@ public class BlackPig : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
-	}
+
+    }
 
 	void OnTriggerEnter2D (Collider2D collider)
 	{
@@ -26,4 +26,10 @@ public class BlackPig : MonoBehaviour {
 		animatorCtrl.SetBool("isAttacking", true);
 		attackerScript.Attack(collider.gameObject);
 	}
+
+
+    void OnMouseDown()
+    {
+        Debug.Log("Yes Change Music");
+    }
 }

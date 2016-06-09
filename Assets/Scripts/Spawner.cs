@@ -4,15 +4,31 @@ using System.Collections;
 public class Spawner : MonoBehaviour {
 
 	public GameObject[] arrAttackers;
+    GameManager gameManager;
+    bool canPlay;
+
+    void Start()
+    {
+        gameManager = FindObjectOfType<GameManager>();
+        canPlay = false;
+    }
 
 	// Update is called once per frame
 	void Update () {
 
-		foreach(GameObject thisAttacker in arrAttackers){
-			if(IsTimeToSpawn(thisAttacker)){
-				Spawn(thisAttacker);
-			}
-		}
+        if (gameManager.gameStart)
+        {
+            foreach (GameObject thisAttacker in arrAttackers)
+            {
+                if (IsTimeToSpawn(thisAttacker))
+                {
+                    Spawn(thisAttacker);
+                }
+            }
+
+        }
+
+		
 	}
 
 	bool IsTimeToSpawn (GameObject attackerGameObject)
