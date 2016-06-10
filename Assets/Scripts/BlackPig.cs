@@ -5,11 +5,16 @@ public class BlackPig : MonoBehaviour {
 
 	Attacker attackerScript;
 	Animator animatorCtrl;
+	MusicManager musicManager;
+	bool canClick = true;
+
 
 	// Use this for initialization
 	void Start () {
 		attackerScript = GetComponent<Attacker>();
 		animatorCtrl = GetComponent<Animator>();
+		musicManager = FindObjectOfType<MusicManager>();
+
 	}
 	
 	// Update is called once per frame
@@ -30,6 +35,12 @@ public class BlackPig : MonoBehaviour {
 
     void OnMouseDown()
     {
-        Debug.Log("Yes Change Music");
+        if(musicManager && canClick){
+        	musicManager.ChangeMusic(6);
+        	canClick = false;
+        } else if(musicManager && !canClick){
+        	
+
+        }
     }
 }
