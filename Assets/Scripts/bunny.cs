@@ -11,6 +11,7 @@ public class bunny : MonoBehaviour {
 	Animator animatorCtrl;
 	Attacker attackerScript;
 	public Transform bunnyEffect;
+	Spawner[] arrSpawner;
 
 
 	// Use this for initialization
@@ -21,6 +22,7 @@ public class bunny : MonoBehaviour {
 		Vector3 currentPosition;
 		animatorCtrl = GetComponent<Animator>();
 		attackerScript = GetComponent<Attacker>();
+		arrSpawner = FindObjectsOfType<Spawner>();
 	}
 
 	void OnTriggerEnter2D (Collider2D collider)
@@ -54,8 +56,28 @@ public class bunny : MonoBehaviour {
 	void SpawnClone(Vector3 newPosition){
 		Instantiate(bunnyEffect,newPosition,Quaternion.identity);
 		GameObject goBunny =(GameObject) Instantiate(cloneBunnny,newPosition,Quaternion.identity);
+		//also put the bunny inside his spawnerLane
+		GameObject mySpawnerLane = FindSpawnerLaneByYPos((int)newPosition.y);
+		if(mySpawnerLane){
+			goBunny.transform.SetParent(mySpawnerLane.transform);
+		} else {
+
+			Debug.LogError("Did not find the spawnLane !");
+		}
+
+
+
 	 	Animator newBunnnyAnimator = goBunny.GetComponent<Animator>();
 		newBunnnyAnimator.SetTrigger("isWakeUpTrigger");
+	}
+
+	GameObject FindSpawnerLaneByYPos(int posY){
+		foreach(Spawner spawnLane in arrSpawner){
+			if (spawnLane.gameObject.transform.position.y == posY){
+				return spawnLane.gameObject;
+			}
+		}
+		return null;
 	}
 
 	bool IsBorderTop(){

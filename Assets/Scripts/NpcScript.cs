@@ -29,12 +29,14 @@ public class NpcScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        
+
+	Debug.Log("state " + currentNPCState);
+
         if (currentNPCState == NpcState.MOVE)
         {
             Debug.Log("Walk");
             animator.SetBool("Stand", false);
-
+			animator.SetBool("Talk", false);
             animator.SetBool("Walk", true);
             this.transform.position = new Vector3(this.transform.position.x + speedMove * Time.deltaTime, transform.position.y, transform.position.z);
         }
@@ -42,8 +44,8 @@ public class NpcScript : MonoBehaviour {
         if(currentNPCState == NpcState.STAND)
         {
             Debug.Log("Stand");
+			animator.SetBool("Talk", false);
             animator.SetBool("Walk", false);
-
             animator.SetBool("Stand", true);
         }
 
@@ -58,8 +60,13 @@ public class NpcScript : MonoBehaviour {
 
             animator.SetBool("Stand", false);
             animator.SetBool("Walk", false);
+			animator.SetBool("Talk", true);
 
-            animator.SetTrigger("TalkTrigger");
+//            if(!isTalking){
+//            	isTalking = true;
+//				animator.SetTrigger("TalkTrigger");
+//            }
+
         }
         
 	}

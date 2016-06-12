@@ -17,9 +17,7 @@ public class DefenderSpawn : MonoBehaviour {
 
 	void OnMouseDown ()
 	{
-	Debug.Log("1");
 		if (Button.selectedDefender) {
-		Debug.Log("2");
 
 			GameObject selectDefender = Button.selectedDefender;
 			int defenderCost = selectDefender.GetComponent<Defender>().starCost;

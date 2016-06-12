@@ -1,16 +1,16 @@
 ﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CreditTextScroll.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PigBoss.cs">
     <Files>
-      <File FileName="Assets/Scripts/Viking.cs" Line="26" Column="45" />
-      <File FileName="Assets/Scripts/Health.cs" Line="16" Column="24" />
-      <File FileName="Assets/Scripts/Attacker.cs" Line="44" Column="19" />
-      <File FileName="Assets/Scripts/bunny.cs" Line="7" Column="29" />
-      <File FileName="Assets/Scripts/CreditTextScroll.cs" Line="43" Column="44" />
+      <File FileName="Assets/Scripts/PigBoss.cs" Line="85" Column="99" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="51" Column="41" />
+      <File FileName="Assets/Scripts/BlackPig.cs" Line="36" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Assets/Scripts/LevelManager.cs" line="25" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -4,6 +4,7 @@ using System.Collections;
 public class Spawner : MonoBehaviour {
 
 	public GameObject[] arrAttackers;
+	public GameObject[] arrAttackersLvl2;
     GameManager gameManager;
     bool canPlay;
 
@@ -24,6 +25,18 @@ public class Spawner : MonoBehaviour {
                 {
                     Spawn(thisAttacker);
                 }
+            }
+
+            if(Time.timeSinceLevelLoad > 60){
+
+				foreach (GameObject thisAttacker in arrAttackersLvl2)
+            	{
+	                if (IsTimeToSpawn(thisAttacker))
+	                {
+	                    Spawn(thisAttacker);
+	                }
+            	}
+            	
             }
 
         }

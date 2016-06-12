@@ -48,7 +48,7 @@ public class LevelManager : MonoBehaviour {
 
 	public void NextLevel ()
 	{
-		if ( (Application.loadedLevel + 1) > 5) {
+		if ( (Application.loadedLevel + 1) > 3) {
 			WinGame ();
 		} else {
 			Application.LoadLevel (Application.loadedLevel + 1);

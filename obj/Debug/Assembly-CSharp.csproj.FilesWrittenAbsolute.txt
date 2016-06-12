@@ -1,0 +1,13 @@
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/UnityEngine.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/UnityEditor.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Mono.Cecil.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Unity.DataContract.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/xavierroba/Documents/unity/rubbikplant/rubbikplant/Temp/bin/Debug/Mono.Cecil.Mdb.dll
