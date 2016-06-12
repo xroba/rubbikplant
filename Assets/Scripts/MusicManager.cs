@@ -20,8 +20,10 @@ public class MusicManager : MonoBehaviour {
 		audioSource.loop = false;
 		audioSource.volume = PlayerPrefsManager.GetMusicVolume();
 
-		//audioSource.Play();
-	}
+        //audioSource.Play();
+        //ChangeVolume(0.5f);
+
+    }
 
 	void Update(){
 		//Debug.Log(PlayerPrefsManager.GetMusicVolume());

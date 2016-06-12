@@ -5,6 +5,7 @@ public class Spawner : MonoBehaviour {
 
 	public GameObject[] arrAttackers;
 	public GameObject[] arrAttackersLvl2;
+    public GameObject[] arrAttackersLvl3;
     GameManager gameManager;
     bool canPlay;
 
@@ -27,7 +28,7 @@ public class Spawner : MonoBehaviour {
                 }
             }
 
-            if(Time.timeSinceLevelLoad > 60){
+            if(Time.timeSinceLevelLoad > 45){
 
 				foreach (GameObject thisAttacker in arrAttackersLvl2)
             	{
@@ -37,6 +38,19 @@ public class Spawner : MonoBehaviour {
 	                }
             	}
             	
+            }
+
+            if (Time.timeSinceLevelLoad > 65)
+            {
+
+                foreach (GameObject thisAttacker in arrAttackersLvl3)
+                {
+                    if (IsTimeToSpawn(thisAttacker))
+                    {
+                        Spawn(thisAttacker);
+                    }
+                }
+
             }
 
         }
